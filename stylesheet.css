@@ -1,0 +1,134 @@
+body{
+    margin: 0;
+	font-family: "Montserrat";
+	color: #14274A;
+	display: block;   
+}
+header{
+    background: url("images/home page.png");
+    background-color: #cccccc;
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    font-family: Garamond;
+    font-size: 20px;
+    font-weight: bold;
+	line-height: 1;
+	margin: 0;
+	color: #14274A;
+	display: block;
+}
+.top-wrap{
+	font-family: "Montserrat";
+	padding-top: 100px;
+	padding-left: 100px;
+	color: white;
+}
+.home2{
+    font-size: 90PX;
+	font-family: Garamond;
+	letter-spacing: 10px;
+	margin:0;
+}
+.home3{
+    margin: 0;
+	font-family:Garamond;
+	letter-spacing: 4px;
+}
+.top-wrap p{
+    font-size: 15px;
+	letter-spacing: 5px;
+}
+.book{
+    display: block;
+	margin: auto;
+	margin-top: 60px;
+	padding: 12px;
+	border-radius: 10px;
+	background: #E0B973;
+	border:0;
+	color: white;
+	font-weight: bold;
+    cursor: pointer; 
+    font-size: 20px;
+}
+.mid-wrap h3{
+	text-align:center;
+	margin-top: 60px;
+}
+
+.bar:after {
+	content: "";
+	display: table;
+	clear: both;
+
+  }
+.explore{
+	padding:10px;
+	background-color: #E0B973;
+	color: white;
+	border:none;
+	width: 200px;
+	cursor: pointer;
+	padding-right: 14px;
+	font-weight: bold;
+	border-radius: 10px;
+	
+}
+  .kol {	
+	width: 50%;
+	padding: 30px;
+	text-align: left;
+  }	
+  footer{
+	margin: 0;
+	font-family: "Montserrat";
+	color: #14274A;
+	display: block;
+  }
+  footer .testi{
+	text-align: center;
+}
+
+footer .testi h1{
+	font-family:Garamond;
+}
+
+footer .testi button{
+	padding: 10px;
+	background-color: #E0B973;
+	border:none; 
+	border-radius: 5px;
+	font-weight: bold;
+	color: white;
+	cursor: pointer;
+}
+.luxury{
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 15px;
+	position: absolute;
+	margin-left: 120px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	width: 130px;
+	letter-spacing: 2px;
+}
+
+.hotel{
+	font-size: 10px;
+	letter-spacing: 5px;
+}
+ul{
+	list-style-type: none;
+	float: right;
+	margin-top: 50px;
+}
+ul li{
+	font-family: "Montserrat";
+    display: inline;
+    font-size: 15px;
+    margin-right: 70px
+}
